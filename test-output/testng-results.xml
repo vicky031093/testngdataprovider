@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7727" started-at="2021-10-15T06:57:53Z" finished-at="2021-10-15T06:58:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7727" started-at="2021-10-15T06:57:53Z" finished-at="2021-10-15T06:58:01Z">
+      <class name="org.testng.dataprovider.FbLaunch">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.testng.dataprovider.FbLaunch@4667ae56]" name="beforeClass" is-config="true" duration-ms="7256" started-at="2021-10-15T06:57:53Z" finished-at="2021-10-15T06:58:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="tc2(java.lang.String, java.lang.String)[pri:0, instance:org.testng.dataprovider.FbLaunch@4667ae56]" name="tc2" duration-ms="368" started-at="2021-10-15T06:58:00Z" data-provider="vicky" finished-at="2021-10-15T06:58:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vicky]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vicky@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="tc2(java.lang.String, java.lang.String)[pri:0, instance:org.testng.dataprovider.FbLaunch@4667ae56]" name="tc2" duration-ms="325" started-at="2021-10-15T06:58:00Z" data-provider="vicky" finished-at="2021-10-15T06:58:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[maaja]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[maja@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method status="PASS" signature="tc2(java.lang.String, java.lang.String)[pri:0, instance:org.testng.dataprovider.FbLaunch@4667ae56]" name="tc2" duration-ms="416" started-at="2021-10-15T06:58:00Z" data-provider="vicky" finished-at="2021-10-15T06:58:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chida]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chida@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+      </class> <!-- org.testng.dataprovider.FbLaunch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
